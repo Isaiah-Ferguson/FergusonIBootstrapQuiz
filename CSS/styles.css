@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.backgroundcl {
+    background-color:slategray;
+}
+
+@font-face {
+    src: url(../Fonts/zerovelo.ttf);
+    font-family: zer;
+}
+.newfont{
+    text-align: center;
+    font-size: xx-large;
+    font-family: zer;
+    font-weight: bolder;
+    color: rgb(90, 9, 122);
+    text-shadow: 2px 2px 5px purple;
+}
